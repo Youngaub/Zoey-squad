@@ -1,3 +1,4 @@
 streamlit
+pydantic
 pydantic-ai
 logfire
